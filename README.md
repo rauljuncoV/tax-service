@@ -11,7 +11,7 @@ Needed methods outlined below:
 
 ## Class Diagram
 
-![Class Diagram](/Documentation/TaxService.png?raw=true " ")
+![Class Diagram](/Documentation/TaxService_v_1.png?raw=true " ")
 
 ## Sales Tax documention
 https://developers.taxjar.com/api/reference/#sales-tax-api
